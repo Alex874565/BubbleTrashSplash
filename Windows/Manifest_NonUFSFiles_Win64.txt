@@ -16,4 +16,4 @@ Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2024-08-30T1
 Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2024-08-30T13:47:00.741Z
 Engine/Content/Renderer/TessellationTable.bin	2024-08-01T14:11:30.375Z
 Engine/Content/Slate/Cursor/invisible.cur	2024-08-01T14:11:30.404Z
-BubbleTrashSplash.exe	2025-01-26T14:08:04.483Z
+BubbleTrashSplash.exe	2025-01-26T14:40:55.075Z
